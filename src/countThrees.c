@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : countThrees.c
- Author      : Courtney Brown
+ Author      : Courtney Brown, modified by T.Parks
  Version     :
- Copyright   : copyright 2014. All Rights Reserved.
- Description : Hello World in C, Ansi-style
+ Copyright   : copyright 2019. All Rights Reserved.
+ Description : Main Driver Program
  ============================================================================
  */
 
